@@ -2,7 +2,7 @@
  (RLE + LZW Real Implementation)
   
   
-  Overview
+  ## Overview
   
   The Multimedia Compression Toolkit is a Python desktop application that demonstrates real data compression techniques using classic algorithms such as Run-Length Encoding (RLE) and LZW (dictionary-based compression).
 
