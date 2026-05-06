@@ -64,6 +64,52 @@ File-Compression-System/
 └── sample_files/
 ```
 
+## Installation & Setup
+
+
+ ### Clone Repository
+ git clone https://github.com/bedo144/File-Compression-System.git
+cd File-Compression-System
+
+## Install Dependencies
+pip install -r requirements.txt
+
+## Run the Application
+python main.py
+
+## Requirements
+tk
+matplotlib
+
+
+## Example Use Case
+
+Compress large text files
+Understand how compression algorithms work internally
+Compare efficiency between RLE and LZW
+Save storage space using encoding techniques
+
+
+## Future Improvements
+
+Huffman Encoding implementation
+Shannon-Fano algorithm
+Real-time compression ratio graphing
+Advanced binary-level compression
+File explorer-style GUI
+Encryption + compression hybrid system
+
+## Author
+
+Abdelrahman Ahmed
+AI Engineer | Machine Learning Enthusiast 
+
+ Email: Bedoahmed904@gmail.com
+
+
+## Project Goal
+
+This project was developed for educational purposes to demonstrate how fundamental compression algorithms work and how they can be implemented in a real-world GUI application.
 
 
 
