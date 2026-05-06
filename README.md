@@ -54,7 +54,7 @@ Custom compression algorithms (RLE, LZW)
 
 
 ## Project Structure
-
+```
 File-Compression-System/
 │
 ├── main.py
@@ -62,6 +62,7 @@ File-Compression-System/
 ├── requirements.txt
 ├── .gitignore
 └── sample_files/
+```
 
 
 
